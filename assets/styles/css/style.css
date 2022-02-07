@@ -1,0 +1,24 @@
+.bg-gray {
+  background: #212529 !important;
+}
+
+.html {
+  width: 25%;
+}
+
+.css {
+  width: 28.32%;
+}
+
+.js {
+  width: 28.3%;
+}
+
+header p {
+  font-size: 1.25rem;
+}
+
+main section p {
+  font-size: 1.25rem;
+}
+/*# sourceMappingURL=style.css.map */
